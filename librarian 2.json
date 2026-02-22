@@ -1,0 +1,81 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:dirt",
+              "count": 3
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:enchanted_book",
+              "count": 1,
+              "functions": [
+                {
+                  "function": "enchant_with_levels",
+                  "treasure": true,
+                  "levels": 30
+                }
+              ]
+            }
+          ],
+          "max_uses": 9999999,
+          "trader_exp": 50
+        }
+      ]
+    },
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:dirt",
+              "count": 3
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:enchanted_book",
+              "count": 1,
+              "functions": [
+                {
+                  "function": "enchant_with_levels",
+                  "treasure": true,
+                  "levels": 30
+                }
+              ]
+            }
+          ],
+          "max_uses": 9999999,
+          "trader_exp": 50
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:dirt",
+              "count": 3
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:experience_bottle",
+              "count": 1,
+              "functions": [
+                {
+                  "function": "enchant_with_levels",
+                  "treasure": true,
+                  "levels": 30
+                }
+              ]
+            }
+          ],
+          "max_uses": 9999999,
+          "trader_exp": 50
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Advanced OP Villagers",
+    "description": "Unique trades, random OP gear, progression \ud83d\ude0e",
+    "uuid": "1643dde4-c2f5-4a2a-93a2-d07a3a8bfb73",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "4e60c65e-e807-441b-9f73-46290771ed27",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
