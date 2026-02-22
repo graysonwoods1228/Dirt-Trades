@@ -2,11 +2,11 @@
   "format_version": "1.20.50",
   "minecraft:villager_profession": {
     "description": {
-      "identifier": "minecraft:armorer"
+      "identifier": "minecraft:cleric"
     },
     "components": {
       "minecraft:trade_table": {
-        "table": "trading/trading_tables/armorer.json"
+        "table": "trading/trading_tables/cleric.json"
       }
     }
   }
